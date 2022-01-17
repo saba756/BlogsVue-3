@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcom to the new blog",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, ",
+      "tags": [
+        "webdevs",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS Tips",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, ",
+      "tags": [
+        "css",
+        "webdevs",
+        "coding"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "jhsjklsk",
+      "tags": [
+        "html",
+        "web"
+      ],
+      "id": 3
+    },
+    {
+      "title": "parrot",
+      "body": "my mithu",
+      "tags": [
+        "green",
+        "ringneck"
+      ],
+      "id": 4
+    }
+  ]
+}
